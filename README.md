@@ -8,13 +8,13 @@ Any questions plz send to [sunplace@live.cn](mailto:sunplace@live.cn).
 
 My blog:[卡库伊2.0](http://www.jsunplace.com).
 
-[ChangeLog](ChageLog.md)
+[ChangeLog](ChangeLog.md)
 
 ## 中文
 
 ### 数据库未包含。
 
-[更新日志](ChageLog.md)
+[更新日志](ChangeLog.md)
 
 ## Info
 
